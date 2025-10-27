@@ -1,0 +1,17 @@
+# Secret files
+kaggle.json
+
+# Data files
+*.csv
+*.zip
+
+# Python junk
+_pycache_/
+*.pyc
+
+# Virtual environment
+venv/
+
+# VS Code settings
+.vscode/
+
